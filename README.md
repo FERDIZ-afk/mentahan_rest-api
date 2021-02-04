@@ -1,4 +1,4 @@
-#  MhankBarBar-Api
+#  Ferdiz-api
 
-# Example
-• [Click here](https://mhankbarbar.herokuapp.com/api)
+# Example my api
+• [Click here](https://ferdiz-api.herokuapp.com/)
