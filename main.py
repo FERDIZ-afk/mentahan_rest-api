@@ -36,13 +36,13 @@ def convert_size(size_bytes):
 #    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSION
 
 
-@app.route('/api', methods=['GET','POST'])
-def api():
-	return render_template('api.html')
+#@app.route('/api', methods=['GET','POST'])
+#def api():
+#	return render_template('api.html')
 
 @app.route('/', methods=['GET','POST'])
 def index():
-	return render_template('index.html')
+	return render_template('api.html')
 
 @app.errorhandler(404)
 def error(e):
