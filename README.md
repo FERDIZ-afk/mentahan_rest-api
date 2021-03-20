@@ -1,4 +1,4 @@
 #  Ferdiz-api
 
 # Example my api
-• [Click here](ferdizstark-afk.xyz/)
+• [Click here](https://ferdizstark-afk.xyz/)
